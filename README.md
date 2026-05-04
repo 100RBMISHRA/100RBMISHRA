@@ -230,31 +230,6 @@
 
 </div>
 
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-> ⚙️ **How to pin:** Go to your GitHub profile → Click **"Customize your profile"** → Pin up to 6 repositories so they show at the top!
-
-<div align="center">
-
-[![YouTube Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_YOUTUBE_REPO&theme=radical&bg_color=0d0d1a&border_color=6e00ff&title_color=a855f7&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/YOUR_USERNAME/YOUR_YOUTUBE_REPO)
-&nbsp;&nbsp;
-[![Image Captioning](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_IMAGECAP_REPO&theme=radical&bg_color=0d0d1a&border_color=6e00ff&title_color=a855f7&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/YOUR_USERNAME/YOUR_IMAGECAP_REPO)
-
-</div>
-
 ---
 
 <!-- CONNECT -->
