@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍 Location-Kanpur, India-6d28d9?style=flat-square" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=👁 Profile Views&color=7c3aed&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=100RBMISHRA&label=👁 Profile Views&color=7c3aed&style=flat-square" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 <!-- ABOUT ME -->
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me:
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<img align="right" src="https://github.com/100RBMISHRA.png" width="180" style="border-radius:50%; margin-left:20px;"/>
 
 - 🔭 I'm currently working on **Data Engineering & Big Data Projects**
 - 🌱 I'm currently learning **ETL Pipelines, AWS, Databricks & PySpark**
@@ -44,12 +44,15 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:sourabhmishra.knp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  &nbsp;
+  <a href="https://github.com/100RBMISHRA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/919628840322">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -60,7 +63,7 @@
 <!-- TECH STACK -->
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack:
 
-**Languages & Databases:**
+**🐍 Languages & Databases:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,14 +72,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud & Big Data:**
+**☁️ Cloud & Big Data:**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Data & BI Tools:**
+**📊 Data & BI Tools:**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -85,13 +88,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**ML / Deep Learning:**
+**🧠 ML / Deep Learning:**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Developer Tools:**
+**🧰 Developer Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -105,13 +108,13 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=100RBMISHRA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100RBMISHRA&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=100RBMISHRA&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -120,7 +123,7 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=100RBMISHRA&theme=tokyonight&no-frame=true&margin-w=6&row=1" />
 </p>
 
 ---
@@ -133,7 +136,7 @@
     <td width="50%">
       <h3 align="center">📺 YouTube Trending Videos Analysis</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_YOUTUBE_REPO">
+        <a href="https://github.com/100RBMISHRA/youtube-trending-analysis">
           <img src="https://img.shields.io/badge/View Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
         </a>
       </p>
@@ -142,13 +145,13 @@
         🔹 Built scalable <b>PySpark workflows</b> on AWS + Databricks<br/>
         🔹 Created interactive <b>Power BI dashboards</b> with KPIs<br/>
         <br/>
-        <b>Stack:</b> AWS · Databricks · PySpark · Power BI · GitHub
+        <b>Stack:</b> AWS · Databricks · PySpark · Power BI
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🖼️ Image Captioning Generator</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_IMAGECAP_REPO">
+        <a href="https://github.com/100RBMISHRA/image-captioning-generator">
           <img src="https://img.shields.io/badge/View Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -179,10 +182,10 @@
 <!-- CERTIFICATIONS -->
 ### 🏅 Certifications:
 
-- ✅ &nbsp; **Programming Fundamentals Using Python** — Infosys
-- ✅ &nbsp; **SQL Basic** — HackerRank
-- ✅ &nbsp; **Unstop Weekly Coding Challenge**
-- ✅ &nbsp; **MS Office Suite** — Certified (Word, Excel, PowerPoint, Access)
+- ✅ &nbsp;**Programming Fundamentals Using Python** — Infosys
+- ✅ &nbsp;**SQL Basic** — HackerRank
+- ✅ &nbsp;**Unstop Weekly Coding Challenge**
+- ✅ &nbsp;**MS Office Suite** — Certified (Word, Excel, PowerPoint, Access)
 
 ---
 
@@ -190,7 +193,7 @@
 ### 🔥 Contribution Activity:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100RBMISHRA&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -200,15 +203,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/100RBMISHRA/100RBMISHRA/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/100RBMISHRA/100RBMISHRA/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/100RBMISHRA/100RBMISHRA/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
-> 💡 **To enable:** Go to your repo → Actions → Enable [Platane/snk](https://github.com/Platane/snk)
-
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
