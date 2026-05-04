@@ -29,29 +29,50 @@
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me
+<!-- ABOUT ME - PYTHON CODE BLOCK -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;`whoami`
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+```python
+#!/usr/bin/env python3
+# ╔══════════════════════════════════════════════════════╗
+# ║         SOURABH MISHRA — DATA ENGINEER              ║
+# ╚══════════════════════════════════════════════════════╝
 
-- 👤 **Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sourabh Mishra
-- 🎯 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aspiring Data Engineer
-- 📍 **Location** &nbsp;&nbsp;&nbsp;&nbsp; Kanpur, India 🇮🇳
-- 📧 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sourabhmishra.knp@gmail.com
-- 📞 **Phone** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +91-9628840322
+class SourabhMishra:
+    def __init__(self):
+        self.name        = "Sourabh Mishra"
+        self.role        = "Aspiring Data Engineer 🚀"
+        self.location    = "Kanpur, India 🇮🇳"
+        self.email       = "sourabhmishra.knp@gmail.com"
+        self.phone       = "+91-9628840322"
 
-<br/>
+        self.education   = {
+            "PG-DBDA" : "CDAC (2025–26) | CGPA: 7.2",
+            "MCA"     : "PSIT, AKTU (2022–24) | CGPA: 7.4",
+            "BCA"     : "MPCPS, CSJMU (2019–22) | CGPA: 6.4"
+        }
 
-- 🔥 **Currently** &nbsp;&nbsp;&nbsp; Building Big Data pipelines on AWS + Databricks
-- 💼 **Open To** &nbsp;&nbsp;&nbsp;&nbsp; Data Engineering & Analytics roles / collaborations
-- 🎓 **Education** &nbsp;&nbsp; PG-DBDA @ CDAC &nbsp;|&nbsp; MCA @ PSIT &nbsp;|&nbsp; BCA @ MPCPS
-- ⚡ **Fun Fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I turn messy CSV files into beautiful dashboards!
+        self.skills      = {
+            "Languages"   : ["Python 🐍", "Java", "SQL", "R"],
+            "Cloud"       : ["AWS ☁️", "Databricks", "Google Colab"],
+            "Big Data"    : ["PySpark", "ETL Workflows"],
+            "Databases"   : ["MySQL", "MongoDB"],
+            "BI Tools"    : ["Power BI 📊", "Tableau"],
+            "ML/DL"       : ["Supervised", "Unsupervised", "Deep Learning"],
+            "Libraries"   : ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+        }
 
-<br/>
+        self.currently   = "🔥 Building Big Data pipelines on AWS + Databricks"
+        self.open_to     = "💼 Data Engineering & Analytics roles / collaborations"
+        self.fun_fact    = "⚡ I turn messy CSV files into beautiful dashboards!"
 
-> 💬 *"Let's transform raw data into real-world impact!"* 📈✨
+    def say_hi(self):
+        return "Let's transform raw data into real-world impact! 📈✨"
 
-<br/>
+me = SourabhMishra()
+print(me.say_hi())
+# Output: Let's transform raw data into real-world impact! 📈✨
+```
 
 ---
 
